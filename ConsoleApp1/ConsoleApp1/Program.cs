@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             var name = Console.ReadLine();
-            Console.WriteLine("Goodday " + name);
+            Console.WriteLine("Goodday " + name + ", Welcome to Hogwarts!");
         }
     }
 }
